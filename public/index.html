@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>My Movie Collection</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="header">
+    <h1>My Movie Collection</h1>
+    <p>Browse through a curated set of classics and modern hits.</p>
+  </header>
+
+  <main class="main">
+    <section class="controls">
+      <button id="btnAll" class="btn">View All Movies</button>
+      <button id="btnClassics" class="btn btn-classic">View Classic Movies</button>
+      <button id="btnGenres" class="btn btn-outline">View Genres</button>
+    </section>
+
+    <section id="output" class="output">
+      <p class="placeholder">Click a button above to load data from the API.</p>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <small>Movie Collection Display API • Built with Node.js &amp; Express</small>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

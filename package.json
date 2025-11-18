@@ -1,0 +1,19 @@
+{
+  "name": "movie-collection-api",
+  "version": "1.0.0",
+  "description": "Simple Movie Collection Display API with Node.js and Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "movies",
+    "api",
+    "express"
+  ],
+  "author": "KS MUHAMMAD ABDULLAH",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
