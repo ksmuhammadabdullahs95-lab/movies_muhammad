@@ -122,7 +122,7 @@ movie-collection-api/
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/movie-collection-api.git
+   git clone https://github.com/ksmuhammadabdullahs95-lab/movies_muhammad.git
    cd movie-collection-api
    ```
 
