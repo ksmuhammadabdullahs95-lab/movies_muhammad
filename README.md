@@ -163,7 +163,7 @@ movie-collection-api/
 
 > Replace this with your actual repository URL before submission:
 
-- GitHub: `https://github.com/YOUR_USERNAME/movie-collection-api`
+- GitHub: `https://github.com/ksmuhammadabdullahs95-lab/movies_muhammad.git`
 
 ## 9. Author Information
 
